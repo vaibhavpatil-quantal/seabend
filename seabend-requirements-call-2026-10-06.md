@@ -319,6 +319,8 @@ Seabend uses **one shared ChatGPT profile** called "Seabend," with several pinne
 
 ## 7. AppFolio exploration findings (9 Oct 2026, read-only, nothing changed)
 
+> **Update (12 Oct 2026):** Seabend has since granted builder permission, and the work order draft has been built. See [`appfolio-work-order-follow-up-handoff-2026-10-12.md`](./appfolio-work-order-follow-up-handoff-2026-10-12.md). The permission notes below are historical.
+
 **What our user (`Dev Chandan`) can see:** only the **flow run history** (`/realm/flows/runs`), which lists every run with its status and steps. Clicking **"Manage Realm-X Flows"** on the Dashboard just opens that same history page. **We can't reach the flow builder**, which most likely means our user lacks the permission for it.
 
 **Seabend's existing flows (16):**
