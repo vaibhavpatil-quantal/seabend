@@ -18,6 +18,11 @@
 *.jpg
 *.jpeg
 
+# Curated workflow evidence approved for the private repository
+!docs/
+!docs/screenshots/
+!docs/screenshots/*.png
+
 # Local editor/OS files
 .vscode/
 .idea/

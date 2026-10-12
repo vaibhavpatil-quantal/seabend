@@ -397,19 +397,19 @@ Do not grant or change permissions without client authorization.
 
 ## 10. Evidence/screenshots from the guided build
 
-The following local screenshots were used during the build. They may help reconstruct the UI state:
+The following curated screenshots are stored with the handoff so the Realm-X UI state can be reconstructed on another laptop. They contain internal client information, so the repository must remain private:
 
-- `C:\Users\patil\Pictures\Screenshots\Screenshot 2026-10-12 134229.png` — builder permission and New Workflow button.
-- `C:\Users\patil\Pictures\Screenshots\Screenshot 2026-10-12 140323.png` — new draft builder and trigger editor.
-- `C:\Users\patil\Pictures\Screenshots\Screenshot 2026-10-12 142906.png` — demo-token condition.
-- `C:\Users\patil\Pictures\Screenshots\Screenshot 2026-10-12 144943.png` — completed and canceled interrupt paths.
-- `C:\Users\patil\Pictures\Screenshots\Screenshot 2026-10-12 153632.png` — day-3 email action in the main path.
-- `C:\Users\patil\Pictures\Screenshots\Screenshot 2026-10-12 155841.png` — valid day-3 SMS with inserted Work Order Number.
-- `C:\Users\patil\Pictures\Screenshots\Screenshot 2026-10-12 161450.png` — two-day pause after the day-3 actions.
-- `C:\Users\patil\Pictures\Screenshots\Screenshot 2026-10-12 163833.png` — Property Manager role access failure for Montlake Villas.
-- `C:\Users\patil\Pictures\Screenshots\Screenshot 2026-10-12 165101.png` — valid day-7 assignee email action.
-- `C:\Users\patil\Pictures\Screenshots\Screenshot 2026-10-12 165514.png` — `Is Urgent is No` condition joined with AND.
-- `C:\Users\patil\Pictures\Screenshots\Screenshot 2026-10-12 165700.png` — workflow list showing DRAFT and separate Publish action.
+- [`01-builder-permission.png`](./docs/screenshots/01-builder-permission.png) — builder permission and New Workflow button.
+- [`02-draft-trigger-editor.png`](./docs/screenshots/02-draft-trigger-editor.png) — new draft builder and trigger editor.
+- [`03-demo-token-condition.png`](./docs/screenshots/03-demo-token-condition.png) — demo-token condition.
+- [`04-completed-canceled-interrupts.png`](./docs/screenshots/04-completed-canceled-interrupts.png) — completed and canceled interrupt paths.
+- [`05-day-3-email-step.png`](./docs/screenshots/05-day-3-email-step.png) — day-3 email action in the main path.
+- [`06-day-3-sms-step.png`](./docs/screenshots/06-day-3-sms-step.png) — valid day-3 SMS with inserted Work Order Number.
+- [`07-day-5-pause.png`](./docs/screenshots/07-day-5-pause.png) — two-day pause after the day-3 actions.
+- [`08-property-manager-access-error.png`](./docs/screenshots/08-property-manager-access-error.png) — Property Manager role access failure for Montlake Villas.
+- [`09-day-7-assignee-email.png`](./docs/screenshots/09-day-7-assignee-email.png) — valid day-7 assignee email action.
+- [`10-non-urgent-condition.png`](./docs/screenshots/10-non-urgent-condition.png) — `Is Urgent is No` condition joined with AND.
+- [`11-draft-publish-separation.png`](./docs/screenshots/11-draft-publish-separation.png) — workflow list showing DRAFT and separate Publish action.
 
 ## 11. Current completion status
 

@@ -1,6 +1,6 @@
 # Seabend Automation Context
 
-> **Confidential client material. Keep this repository private.** Do not commit credentials, API keys, tenant exports, recordings, or unredacted screenshots from the live AppFolio account.
+> **Confidential client material. Keep this repository private.** Do not commit credentials, API keys, tenant exports, or recordings. The curated AppFolio screenshots in this repository contain internal client workflow information and must not be placed in a public repository.
 
 This repository preserves the requirements and implementation context for Seabend's automation work so it can be resumed from a different laptop or by another agent.
 
@@ -32,5 +32,5 @@ Then:
 3. Open Realm-X Flows and confirm `Work Order Created` still shows **DRAFT**.
 4. Follow the handoff's next-agent procedure and safety rules.
 
-The screenshot paths listed in the handoff refer to the original laptop and will not exist after cloning. Do not upload unredacted live-account screenshots merely to preserve those paths.
+Curated workflow screenshots are stored in [`docs/screenshots`](./docs/screenshots). They are included only to preserve the Realm-X build context and must remain in a private repository.
 
