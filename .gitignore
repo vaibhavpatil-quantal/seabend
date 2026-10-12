@@ -1,0 +1,26 @@
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+*credentials*
+*secrets*
+
+# Client recordings and exports
+*.mp3
+*.mp4
+*.wav
+*.csv
+*.xlsx
+
+# Live-account screenshots and images (force-add only after redaction/review)
+*.png
+*.jpg
+*.jpeg
+
+# Local editor/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
